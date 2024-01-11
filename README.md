@@ -1,4 +1,4 @@
-Notification Service: A microservice to be used for notification purpose
+Notification Service: A micro-service to be used for notification purpose
 ============
 This service is used to provide other services with notifications (Email or SMS) and alerts features.
 
